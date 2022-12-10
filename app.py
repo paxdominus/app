@@ -1,4 +1,4 @@
-import torch
+#import torch
 from transformers import GPT2LMHeadModel, GPT2Tokenizer
 
 # initialize tokenizer and model from pretrained GPT2 model
