@@ -6,7 +6,7 @@ from transformers import GPT2LMHeadModel, GPT2Tokenizer
 
 from flask import jsonify, make_response
 from flask import Flask, request
-
+from markupsafe import Markup
 
 app = Flask(__name__)
 
