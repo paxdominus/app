@@ -17,7 +17,7 @@ tokenizers==0.13.2
 torch==1.13.0
 torchvision==0.14.0
 tqdm==4.64.1
-transformers==4.10.0
+transformers==4.10.1
 typing_extensions==4.4.0
 urllib3==1.26.13
 zipp==3.11.0
