@@ -46,4 +46,4 @@ def api():
         return text
 
 if __name__ == '__main__':
-	app.run(port=80)
+	app.run(host="http://43.204.113.103",port=80)
